@@ -1,2 +1,2 @@
-urllib
+requests
 bs4
